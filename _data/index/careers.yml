@@ -1,29 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Nielsen
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Scala​, ​Java​, ​Apache Spark​, Hadoop​, ​Spring Boots​, ​PostgreSQL​, ​Maven​, ​JSON​, ​Rest Services​, ​Jenkins​, ​Git, JIRA, Angular, Javascript, JUnit, XML​.
+    i18n: Mexico City
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Nov. 2016 - Current
+    i18n: Mexico City
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Software Engineer
+    i18n: Mexico City
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Sociedad de Autores y Compositores de México (SACM)
+    i18n: SACM
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Java, Lucine,PHP​, ​PL/SQL​, ​JSON​, ​XML​, ​XSLT​,jQuery​, ​Web Services​, J​avaScript​.
+    i18n: SACM
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Aug. 2014 - Nov. 2016
+    i18n: SACM
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Analyst Programmer
+    i18n: SACM
+  icon: fa-plus-square
+
+- name:
+    detail: Instituto Politécnico Nacional (IPN - ESCOM)
+    i18n: ESCOM
+  desc:
+    detail: Quantum algorithm for the Protein Folding Problem, C# and ​Mathematica​.
+    i18n: ESCOM
+  date:
+    detail: Feb. 2014 - Feb. 2015
+    i18n: ESCOM
+  job:
+    detail: Thesis 
+    i18n: ESCOM
+  icon: fa-plus-square
+
+- name:
+    detail: CrucialSoft
+    i18n: Mexico City
+  desc:
+    detail: Java​, ​4GL Genero, ​Informix​, iReport​..
+    i18n: Mexico City
+  date:
+    detail: Jun. 2011 - Jul. 2012
+    i18n: Mexico City
+  job:
+    detail: Software Developer 
+    i18n: Mexico City
   icon: fa-plus-square
