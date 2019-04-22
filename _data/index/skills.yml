@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Java,Scala,Apache Spark,Hadoop,Git,Python,SQL,SCRUM,Communication,Big Data,Data Science
-percentage: 70, 50, 40, 40, 70, 50, 60,80,90,40,10
+aspects: Java,Scala,Apache Spark,Hadoop,Git,Python,SQL,SCRUM,Communication,Big Data,Data Science,Linux
+percentage: 70, 50, 40, 40, 70, 50, 60,80,90,40,10,60
