@@ -31,8 +31,8 @@ author:  # change following line to your infomation.
   desc: I am passionated about computer science, fields such as Quantum Computing, Big Data, Data Science, Web Develoment, Algorithms, Bioinformatics, Cognitive Science and Software Design and Architecture. Learning languages is part of my life, I am working on English, Italian, French, German, Portuguese and Swedish.  # Describe yourself.
 
 # comment
-#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-#  name: jalpc
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: luis_cs
 
 # analytics
 ## google analytics
